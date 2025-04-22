@@ -1,0 +1,36 @@
+.flag{
+    width: 900px;
+    height: 600px;
+    background-color: red;
+    
+    color: black;
+    color: white;
+    position: relative;
+}
+
+.flag>div{
+    background-color: blue;
+    height: 300px;
+    position: relative;
+    margin-top: 50px;
+    
+
+}
+
+.flag>div>div{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: white;
+    margin-left: 350px;
+    margin-top: 50px;
+    position: absolute;
+    color: black;    
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 5rem;
+    text-align: center;
+    margin: 0;
+}
